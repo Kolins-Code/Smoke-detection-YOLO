@@ -1,0 +1,12 @@
+D:\Programming\WindowsProjects\YOLOApp\UILogic\bin\Debug\net7.0\UILogic.deps.json
+D:\Programming\WindowsProjects\YOLOApp\UILogic\bin\Debug\net7.0\UILogic.dll
+D:\Programming\WindowsProjects\YOLOApp\UILogic\bin\Debug\net7.0\UILogic.pdb
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\UILogic.AssemblyInfoInputs.cache
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\UILogic.AssemblyInfo.cs
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\UILogic.csproj.CoreCompileInputs.cache
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\UILogic.dll
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\refint\UILogic.dll
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\UILogic.pdb
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\ref\UILogic.dll
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\UILogic.csproj.AssemblyReference.cache
+D:\Programming\WindowsProjects\YOLOApp\UILogic\obj\Debug\net7.0\UILogic.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig

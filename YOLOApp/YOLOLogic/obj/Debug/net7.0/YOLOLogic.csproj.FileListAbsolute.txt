@@ -1,0 +1,13 @@
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\YOLOLogic.csproj.AssemblyReference.cache
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\YOLOLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\YOLOLogic.AssemblyInfoInputs.cache
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\YOLOLogic.AssemblyInfo.cs
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\YOLOLogic.csproj.CoreCompileInputs.cache
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\bin\Debug\net7.0\YOLOLogic.deps.json
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\bin\Debug\net7.0\YOLOLogic.dll
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\bin\Debug\net7.0\YOLOLogic.pdb
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\YOLOLogic.dll
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\refint\YOLOLogic.dll
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\YOLOLogic.pdb
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\obj\Debug\net7.0\ref\YOLOLogic.dll
+D:\Programming\WindowsProjects\YOLOApp\YOLOLogic\bin\Debug\net7.0\model.onnx
